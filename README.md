@@ -11,4 +11,4 @@ it can also handle SAN requests by adding more FQDNs to the end separated by /
 ```
 /C=US/ST=California/L=San Diego/O=My Company, Inc./OU=Development and Engineering/CN=hostname.and.catchy.domain.com/othername.and.catchy.domain.com
 ``` 
-output will be a csr and private key
+output will be a csr and private key for each SUBJECT file entry
