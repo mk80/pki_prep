@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 # author: michael kosko
 # date: 27/07/2018
 # purpose: generate CSR and key from SUBJECT file with a list of cert subjects
